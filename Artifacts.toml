@@ -1,0 +1,110 @@
+[[web3go]]
+arch = "aarch64"
+git-tree-sha1 = "7991cb5515568b6a97a3b33867771adfd05bfdf4"
+libc = "musl"
+os = "linux"
+
+    [[web3go.download]]
+    sha256 = "3a30eb2e229afb58148752a74546c90bab78c3c633b8f32a29ffe23af343c174"
+    url = "https://github.com/JuliaBinaryWrappers/web3go_jll.jl/releases/download/web3go-v0.2.89+0/web3go.v0.2.89.aarch64-linux-musl.tar.gz"
+[[web3go]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "37ea49e5e3e91090dfe78e470721989a7868482f"
+libc = "glibc"
+os = "linux"
+
+    [[web3go.download]]
+    sha256 = "1c9ef14b6252fe5968f9e408062cf9dabcd4cd3b8319293a29aba64793dca835"
+    url = "https://github.com/JuliaBinaryWrappers/web3go_jll.jl/releases/download/web3go-v0.2.89+0/web3go.v0.2.89.armv6l-linux-gnueabihf.tar.gz"
+[[web3go]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "275259aa91f0288ee94b88f7d5d554664d2fc07a"
+libc = "musl"
+os = "linux"
+
+    [[web3go.download]]
+    sha256 = "fb1c982ea9a6909133f4f68aed651a157cac6385b2c0c977532243769eac6f3e"
+    url = "https://github.com/JuliaBinaryWrappers/web3go_jll.jl/releases/download/web3go-v0.2.89+0/web3go.v0.2.89.armv6l-linux-musleabihf.tar.gz"
+[[web3go]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f2ef7d1f78ad3c90016bc5773c524b65d1372d56"
+libc = "glibc"
+os = "linux"
+
+    [[web3go.download]]
+    sha256 = "397bf1613cf6c9a4a79c3bf7d272737100020637fe97dc40001d75a700f4d01d"
+    url = "https://github.com/JuliaBinaryWrappers/web3go_jll.jl/releases/download/web3go-v0.2.89+0/web3go.v0.2.89.armv7l-linux-gnueabihf.tar.gz"
+[[web3go]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "70b3df68707dd2a2dd7d29e42b068ca5cbff7d61"
+libc = "musl"
+os = "linux"
+
+    [[web3go.download]]
+    sha256 = "20482b9b0483f843755a8644335ccfeadb3645470336e5f7833a4d323fcbdf59"
+    url = "https://github.com/JuliaBinaryWrappers/web3go_jll.jl/releases/download/web3go-v0.2.89+0/web3go.v0.2.89.armv7l-linux-musleabihf.tar.gz"
+[[web3go]]
+arch = "i686"
+git-tree-sha1 = "75de750a081015913f6369ffd1bab0e1d559faa4"
+libc = "glibc"
+os = "linux"
+
+    [[web3go.download]]
+    sha256 = "ede7e56ab322780e0ea17fa6d21f6d8500190f71d307f0b40a7d94ce319208b4"
+    url = "https://github.com/JuliaBinaryWrappers/web3go_jll.jl/releases/download/web3go-v0.2.89+0/web3go.v0.2.89.i686-linux-gnu.tar.gz"
+[[web3go]]
+arch = "i686"
+git-tree-sha1 = "baa99b4dbcd75af9b76bfcadb1e1d5af84aa5116"
+libc = "musl"
+os = "linux"
+
+    [[web3go.download]]
+    sha256 = "10ffad8372757d459b1a0734bc99a8538430581cdd8f641592d08bcee5c9388b"
+    url = "https://github.com/JuliaBinaryWrappers/web3go_jll.jl/releases/download/web3go-v0.2.89+0/web3go.v0.2.89.i686-linux-musl.tar.gz"
+[[web3go]]
+arch = "i686"
+git-tree-sha1 = "d5706a70a7c5fa77054a08ab03915528a055bcae"
+os = "windows"
+
+    [[web3go.download]]
+    sha256 = "587ff74991fee58ca9aae9a0827b038b3fd93cb9dc7675e70bf850d3e790c612"
+    url = "https://github.com/JuliaBinaryWrappers/web3go_jll.jl/releases/download/web3go-v0.2.89+0/web3go.v0.2.89.i686-w64-mingw32.tar.gz"
+[[web3go]]
+arch = "powerpc64le"
+git-tree-sha1 = "a2d6dbc8177cc9c196c5958ee04e446d8b610e41"
+libc = "glibc"
+os = "linux"
+
+    [[web3go.download]]
+    sha256 = "1ccdf044abfadcb7e06a86186c5b2cba70fa72c96a36809080a57ad7ae35a213"
+    url = "https://github.com/JuliaBinaryWrappers/web3go_jll.jl/releases/download/web3go-v0.2.89+0/web3go.v0.2.89.powerpc64le-linux-gnu.tar.gz"
+[[web3go]]
+arch = "x86_64"
+git-tree-sha1 = "35fdd16c70d16f0891f629eff85ea2352482985e"
+libc = "glibc"
+os = "linux"
+
+    [[web3go.download]]
+    sha256 = "74b2e4b44f6290d570702429127bc7591b34011ac09d6ed379488772350678e4"
+    url = "https://github.com/JuliaBinaryWrappers/web3go_jll.jl/releases/download/web3go-v0.2.89+0/web3go.v0.2.89.x86_64-linux-gnu.tar.gz"
+[[web3go]]
+arch = "x86_64"
+git-tree-sha1 = "091d6debf523467c1d0a38a22e3daf93070f474d"
+libc = "musl"
+os = "linux"
+
+    [[web3go.download]]
+    sha256 = "14456affd2a334ffcfa209982585159d356b2108b85b1411b2b963638247cca4"
+    url = "https://github.com/JuliaBinaryWrappers/web3go_jll.jl/releases/download/web3go-v0.2.89+0/web3go.v0.2.89.x86_64-linux-musl.tar.gz"
+[[web3go]]
+arch = "x86_64"
+git-tree-sha1 = "b9a1fa0192e37148e2afd4deae44041f074f8230"
+os = "freebsd"
+
+    [[web3go.download]]
+    sha256 = "ce5edf79f19c65d3c1a5f871f1f8a9e3d3c3fc75bc50076c25172635182c3e4a"
+    url = "https://github.com/JuliaBinaryWrappers/web3go_jll.jl/releases/download/web3go-v0.2.89+0/web3go.v0.2.89.x86_64-unknown-freebsd.tar.gz"
